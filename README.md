@@ -1,7 +1,9 @@
 LivingSocial API Design Guide
 =============================
 
-## Version 1.0.0 - Published 2016 Mar 10
+## Version 1.0.0 - Published 2017 Jul 28
+
+_Internal version published 2016 Mar 10_
 
 - [Quick Reference](QUICK.md)
 - [FAQ](FAQ.md)
